@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jhonatas+Martins;I'm+23+years+old;I+from+Brasil,+DF;I+study+Java;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonatas07&show_theme=&show_icons=true&count_private=true&hide_border=true&title_color=2E2EFE&icon_color=2E2EFE&text_color=c9d1d9&bg_color=0d1117" alt="Jhonatas07 github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jhonataszetta&show_theme=&show_icons=true&count_private=true&hide_border=true&title_color=2E2EFE&icon_color=2E2EFE&text_color=c9d1d9&bg_color=0d1117" alt="jhonatas zetta github stats" /> 
   
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatas07&layout=compact&hide_border=true&title_color=2E2EFE&text_color=FFFFFFf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonataszetta&layout=compact&hide_border=true&title_color=2E2EFE&text_color=FFFFFFf&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/Jhonatas07}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/Jhonataszetta}/count.svg" /></p> 
 <br></div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E2EFE&height=120&section=footer"/>
