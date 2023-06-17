@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jhonatas+Martins;I'm+23+years+old;I+from+Brasília-DF;I+study+Java;Be+Welcome!)](https://git.io/typing-svg)
 
-<div align="center">  
+<div>  
   <a href="https://github.com/njhonatas">
   <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api?username=njhonatas&show_theme=&show_icons=true&count_private=true&hide_border=true&title_color=2E2EFE&icon_color=2E2EFE&text_color=c9d1d9&bg_color=0d1117" alt="njhonatas github stats"/> 
   <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njhonatas&layout=compact&hide_border=true&title_color=2E2EFE&text_color=FFFFFFf&bg_color=0d1117" />
